@@ -1,0 +1,1 @@
+console.log("my name is D Darshan".toUpperCase(0,5));
